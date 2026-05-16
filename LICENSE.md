@@ -1,4 +1,4 @@
-# 
+# updated Trading Bot for Polymarket - prediction-market-scanning and risk-management is the best Polymarket trading-bot, featuring prediction-market-scanning and risk-management.
 
 
 
